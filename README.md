@@ -1,2 +1,2 @@
 # Udacity-Scholarships
-This repository was created after being inspired by @shdq Sergei Cherniaev under the 60_days_udacity channel on Slack where we post about the 60 days (30 minutes of coding everyday) and progress of each day. 
+After being inspired by Sergei Cherniaev ( GitHub username: @shdq) in the 60_days_udacity channel on Slack, I decided to create this repository in order to keep track of my progress for the Bertelsmann Technology Scholarship (Cloud Track). 60 days of Udacity challenge is about coding for 30 minutes everyday, post short announcement in the 60_days_udacity  channel on Slack, and encourage at least two people everyday. 
